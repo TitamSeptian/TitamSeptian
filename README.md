@@ -6,7 +6,7 @@
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TitamSeptian.TitamSeptian)
 
-I am a just a ordinary Student, Developer who love nasi padang. You can call me Titam Septian.<br>
+I am a just a ordinary Student, Web Developer who love nasi padang. You can call me Titam Septian.<br>
 Oh wait 😲 there is one thing what really i like, is creating an open source projects and i will make sure that the open source i create is useful to everyone. ^_^
 
 ### About Me

@@ -12,7 +12,7 @@ Oh wait 😲 there is one thing what really i like, is creating an open source p
 ### About Me
 
 - 👨🏻‍💻 I’m currently working as an Web Developer
-- 🚀 I’m currently learning how to design and learn Web App using ReactJS
+- 🚀 I’m currently learning docker
 - 💬 Ask me about anything,even that's about cats., I am happy to help
 - 📫 How to reach me: [email](mailto:dwiputra4456@protonmail.com);
 

@@ -6,13 +6,13 @@
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TitamSeptian.TitamSeptian)
 
-I am a just a ordinary Student, Web Developer who love nasi padang. You can call me Titam Septian.<br>
+I am a just a Student, Web Developer who love nasi goreng. You can call me Titam.<br>
 Oh wait 😲 there is one thing what really i like, is creating an open source projects and i will make sure that the open source i create is useful to everyone. ^_^
 
 ### About Me
 
 - 👨🏻‍💻 I’m currently working as an Web Developer
-- 🚀 I’m currently learning docker
+- 🚀 I’m currently learning google cloud
 - 💬 Ask me about anything,even that's about cats., I am happy to help
 - 📫 How to reach me: [email](mailto:dwiputra4456@protonmail.com);
 

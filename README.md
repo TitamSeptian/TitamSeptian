@@ -1,7 +1,7 @@
 ### Hi pal 👋, I'm [Septian](https://TitamSeptian.github.io) you can call me Titam
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/septian-pradipta/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://TitamSeptian.github.io)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://pradipta-dev.vercel.app)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sptndpp/)
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TitamSeptian.TitamSeptian)
@@ -11,9 +11,9 @@ Oh wait 😲 there is one thing what really i like, is creating an open source p
 
 ### About Me
 
-- 👨🏻‍💻 I’m currently working as an Web Developer
+- 👨🏻‍💻 I’m currently working as DevOps
 - 🚀 I’m currently learning google cloud
-- 💬 Ask me about anything,even that's about cats., I am happy to help
+- 💬 Ask me about anything, even that's about cats., I am happy to help
 - 📫 How to reach me: [email](mailto:dwiputra4456@protonmail.com);
 
 <!-- <h3 align="left">Languages and Tools:</h3>
